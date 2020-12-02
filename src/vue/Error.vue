@@ -9,7 +9,7 @@
             <h3>Security alert</h3>
 
             You are using Vanity-Alaya from an unknown website, which could steal your private keys.<br>
-            To stay safe, use Vanity-Alaya on <a href="" target="_blank">http://website</a>, or to use offline.
+            To stay safe, use Vanity-Alaya on <a href="https://vanity-alaya.github.io/" target="_blank">https://vanity-alaya.github.io/</a>, or to use offline.
         </div>
         <p v-else v-html="error.replace('\n', '<br>')"></p>
     </div>
