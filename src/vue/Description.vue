@@ -10,7 +10,7 @@
 
         <h2>什么是Alaya地址生成器?</h2>
         <p>
-            Alaya地址生成器可以生成有指定前缀或后缀的地址, 可以理解为靓号, 原理是大量生成地址来匹配您设定的规则
+            Vanity address可以理解为靓号地址, Alaya地址生成器通过生成大量的地址来匹配指定的前缀或后缀, 指定的字符越长所需时间越久
             <br>
             例如: <span class="monospace">atp1000000000000000000000000000000000abcde</span>, 或
             <span class="monospace">atp1888888888888888888888888888888888abcde</span>
@@ -18,7 +18,7 @@
 
         <h2>Alaya地址生成器是否安全?</h2>
         <p>
-            Alaya地址生成器<span class="monospace">不会保存私钥请做好备份, 建议您打开网页后在断网情况下运行</span>, 并且代码完全开源.
+            Alaya地址生成器<span class="monospace">不会保存私钥所以请做好备份, 建议您打开网页后在断网情况下运行</span>, 代码完全开源
         </p>
     </div>
 </template>

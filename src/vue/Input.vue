@@ -35,7 +35,7 @@
                        :disabled="running">
                 <h4 v-text="threads"></h4>
                 <span>线程</span>
-                <span v-if="threads === cores">(recommended)</span>
+                <span v-if="threads === cores">(推荐)</span>
             </div>
             <div class="row">
                 <div class="col-lg-6 col-sm-12">
